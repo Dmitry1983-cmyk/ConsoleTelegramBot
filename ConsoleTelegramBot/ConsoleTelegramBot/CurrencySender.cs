@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Telegram.Bot;
 using System.Xml;
 
+
 namespace ConsoleTelegramBot
 {
     class CurrencySender
